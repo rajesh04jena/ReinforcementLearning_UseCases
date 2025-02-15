@@ -1,7 +1,7 @@
-# Deep Q-Learning Based Retail Pricing Optimization
+# PriceZen: Deep Q-Learning Based Retail Pricing Optimization
 
 ## Overview
-This repository contains a Deep Q-Learning (DQN) based reinforcement learning model to optimize pricing decisions in a retail environment. The model aims to maximize profit, revenue, and inventory turnover through a multi-objective optimization framework.
+PriceZen is a Python library that contains a Deep Q-Learning (DQN)-based reinforcement learning model to optimize pricing decisions in a retail environment. The model aims to maximize profit, revenue, and inventory turnover through a multi-objective optimization framework.
 
 ## Features
 ### Multi-Objective Optimization
